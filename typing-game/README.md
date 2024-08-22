@@ -1,9 +1,5 @@
 # Creating a game using events
 
-## Pre-Lecture Quiz
-
-[Pre-lecture quiz](https://ashy-river-0debb7803.1.azurestaticapps.net/quiz/21)
-
 ## Event driven programming
 
 When creating a browser based application, we provide a graphical user interface (GUI) for the user to use when interacting with what we've built. The most common way to interact with the browser is through clicking and typing in various elements. The challenge we face as a developer is we don't know when they're going to perform these operations!
@@ -325,10 +321,6 @@ Add more functionality
 - Disable the textbox when the player completes the quote
 - Display a modal dialog box with the success message
 - Store high scores using [localStorage](https://developer.mozilla.org/docs/Web/API/Window/localStorage)
-
-## Post-Lecture Quiz
-
-[Post-lecture quiz](https://ashy-river-0debb7803.1.azurestaticapps.net/quiz/22)
 
 ## Review & Self Study
 
