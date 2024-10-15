@@ -37,23 +37,7 @@ Let's build our game, and learn about events!
 
 We're going to need three total files: **index.html**, **script.js** and **style.css**. Let's start by setting those up to make life a little easier for us.
 
-- Create a new folder for your work by opening a console or terminal window and issuing the following command:
-
-```bash
-# Linux or macOS
-mkdir typing-game && cd typing-game
-
-# Windows
-md typing-game && cd typing-game
-```
-
-- Open Visual Studio Code
-
-```bash
-code .
-```
-
-- Add three files to the folder in Visual Studio Code with the following names:
+- Add three files to the folder with the following names:
   - index.html
   - script.js
   - style.css
